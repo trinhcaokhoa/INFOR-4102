@@ -3,7 +3,23 @@ The project to describe Exponential backoff and Linear Backoff The goal of this 
 
 Problem Statement The code below simulates a really busy server that accepts sentences as requests and returns capitalized sentences as responses. This code is also available as a text attachment, and must not be altered.
 
-import random from time import sleep from socket import * BUSY_PERCENT = 50 serverPort = 12000 def get_busy(): random_number = random.randint(0, 100) if random_number < BUSY_PERCENT: print("Getting busy ...") sleep(1) serverSocket = socket(AF_INET, SOCK_DGRAM) serverSocket.bind((’’, serverPort)) print(’The server is ready to receive requests’) while True: get_busy() 1 message, clientAddress = serverSocket.recvfrom(2048) print(’Received request:\n’, message.decode(), ’\nfrom client:\n’, clientAddress) modifiedMessage = message.decode().upper() serverSocket.sendto(modifiedMessage.encode(), clientAddress) get_busy()
+import random 
+from time import sleep 
+from socket import * 
+BUSY_PERCENT = 50 
+serverPort = 12000 
+def get_busy(): random_number = random.randint(0, 100) 
+if random_number < BUSY_PERCENT: print("Getting busy ...")
+sleep(1) 
+serverSocket = socket(AF_INET, SOCK_DGRAM) 
+serverSocket.bind((’’, serverPort)) 
+print(’The server is ready to receive requests’)
+while True: 
+get_busy() 1 message, clientAddress = serverSocket.recvfrom(2048) 
+print(’Received request:\n’, message.decode(), ’\nfrom client:\n’, clientAddress)
+modifiedMessage = message.decode().upper() 
+serverSocket.sendto(modifiedMessage.encode(), clientAddress) 
+get_busy()
 
 • After sending each message, the client waits up to 1 second for a response from the server. If a response is received within this time, it prints the response. Otherwise, it retries after a delay. Consider the following three delay strategies.
 
