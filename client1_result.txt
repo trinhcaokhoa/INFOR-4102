@@ -1,0 +1,465 @@
+
+from socket import *...
+Sending :  Ping massage number: 0
+Attempt: 0
+Received:  PING MASSAGE NUMBER: 0
+
+
+Sending :  Ping massage number: 1
+Attempt: 0
+Time Out
+Attempt: 1
+Received:  PING MASSAGE NUMBER: 1
+
+
+Sending :  Ping massage number: 2
+Attempt: 0
+Time Out
+Attempt: 1
+Time Out
+Attempt: 2
+Time Out
+Attempt: 3
+Time Out
+Attempt: 4
+Time Out
+Attempt: 5
+Time Out
+Attempt: 6
+Time Out
+Attempt: 7
+Time Out
+Attempt: 8
+Time Out
+Attempt: 9
+Time Out
+Attempt: 10
+Time Out
+
+
+Sending :  Ping massage number: 3
+Attempt: 0
+Time Out
+Attempt: 1
+Time Out
+Attempt: 2
+Time Out
+Attempt: 3
+Time Out
+Attempt: 4
+Time Out
+Attempt: 5
+Time Out
+Attempt: 6
+Time Out
+Attempt: 7
+Time Out
+Attempt: 8
+Time Out
+Attempt: 9
+Time Out
+Attempt: 10
+Time Out
+
+
+Sending :  Ping massage number: 4
+Attempt: 0
+Time Out
+Attempt: 1
+Time Out
+Attempt: 2
+Time Out
+Attempt: 3
+Time Out
+Attempt: 4
+Time Out
+Attempt: 5
+Time Out
+Attempt: 6
+Time Out
+Attempt: 7
+Time Out
+Attempt: 8
+Time Out
+Attempt: 9
+Time Out
+Attempt: 10
+Time Out
+
+
+Sending :  Ping massage number: 5
+Attempt: 0
+Time Out
+Attempt: 1
+Time Out
+Attempt: 2
+Time Out
+Attempt: 3
+Time Out
+Attempt: 4
+Time Out
+Attempt: 5
+Time Out
+Attempt: 6
+Time Out
+Attempt: 7
+Time Out
+Attempt: 8
+Time Out
+Attempt: 9
+Time Out
+Attempt: 10
+Time Out
+
+
+Sending :  Ping massage number: 6
+Attempt: 0
+Time Out
+Attempt: 1
+Time Out
+Attempt: 2
+Time Out
+Attempt: 3
+Time Out
+Attempt: 4
+Time Out
+Attempt: 5
+Time Out
+Attempt: 6
+Time Out
+Attempt: 7
+Time Out
+Attempt: 8
+Time Out
+Attempt: 9
+Time Out
+Attempt: 10
+Time Out
+
+
+Sending :  Ping massage number: 7
+Attempt: 0
+Time Out
+Attempt: 1
+Time Out
+Attempt: 2
+Time Out
+Attempt: 3
+Time Out
+Attempt: 4
+Time Out
+Attempt: 5
+Time Out
+Attempt: 6
+Time Out
+Attempt: 7
+Time Out
+Attempt: 8
+Time Out
+Attempt: 9
+Time Out
+Attempt: 10
+Time Out
+
+
+Sending :  Ping massage number: 8
+Attempt: 0
+Time Out
+Attempt: 1
+Time Out
+Attempt: 2
+Time Out
+Attempt: 3
+Time Out
+Attempt: 4
+Time Out
+Attempt: 5
+Time Out
+Attempt: 6
+Time Out
+Attempt: 7
+Time Out
+Attempt: 8
+Time Out
+Attempt: 9
+Time Out
+Attempt: 10
+Time Out
+
+
+Sending :  Ping massage number: 9
+Attempt: 0
+Time Out
+Attempt: 1
+Time Out
+Attempt: 2
+Time Out
+Attempt: 3
+Time Out
+Attempt: 4
+Time Out
+Attempt: 5
+Time Out
+Attempt: 6
+Time Out
+Attempt: 7
+Time Out
+Attempt: 8
+Time Out
+Attempt: 9
+Time Out
+Attempt: 10
+Time Out
+
+
+Sending :  Ping massage number: 10
+Attempt: 0
+Time Out
+Attempt: 1
+Time Out
+Attempt: 2
+Time Out
+Attempt: 3
+Time Out
+Attempt: 4
+Time Out
+Attempt: 5
+Time Out
+Attempt: 6
+Time Out
+Attempt: 7
+Time Out
+Attempt: 8
+Time Out
+Attempt: 9
+Time Out
+Attempt: 10
+Time Out
+
+
+Sending :  Ping massage number: 11
+Attempt: 0
+Time Out
+Attempt: 1
+Time Out
+Attempt: 2
+Time Out
+Attempt: 3
+Time Out
+Attempt: 4
+Time Out
+Attempt: 5
+Time Out
+Attempt: 6
+Time Out
+Attempt: 7
+Time Out
+Attempt: 8
+Time Out
+Attempt: 9
+Time Out
+Attempt: 10
+Time Out
+
+
+Sending :  Ping massage number: 12
+Attempt: 0
+Time Out
+Attempt: 1
+Time Out
+Attempt: 2
+Time Out
+Attempt: 3
+Time Out
+Attempt: 4
+Time Out
+Attempt: 5
+Time Out
+Attempt: 6
+Time Out
+Attempt: 7
+Time Out
+Attempt: 8
+Time Out
+Attempt: 9
+Time Out
+Attempt: 10
+Time Out
+
+
+Sending :  Ping massage number: 13
+Attempt: 0
+Time Out
+Attempt: 1
+Time Out
+Attempt: 2
+Time Out
+Attempt: 3
+Time Out
+Attempt: 4
+Time Out
+Attempt: 5
+Time Out
+Attempt: 6
+Time Out
+Attempt: 7
+Time Out
+Attempt: 8
+Time Out
+Attempt: 9
+Time Out
+Attempt: 10
+Time Out
+
+
+Sending :  Ping massage number: 14
+Attempt: 0
+Time Out
+Attempt: 1
+Time Out
+Attempt: 2
+Time Out
+Attempt: 3
+Time Out
+Attempt: 4
+Time Out
+Attempt: 5
+Time Out
+Attempt: 6
+Time Out
+Attempt: 7
+Time Out
+Attempt: 8
+Time Out
+Attempt: 9
+Time Out
+Attempt: 10
+Time Out
+
+
+Sending :  Ping massage number: 15
+Attempt: 0
+Time Out
+Attempt: 1
+Time Out
+Attempt: 2
+Time Out
+Attempt: 3
+Time Out
+Attempt: 4
+Time Out
+Attempt: 5
+Time Out
+Attempt: 6
+Time Out
+Attempt: 7
+Time Out
+Attempt: 8
+Time Out
+Attempt: 9
+Time Out
+Attempt: 10
+Time Out
+
+
+Sending :  Ping massage number: 16
+Attempt: 0
+Time Out
+Attempt: 1
+Time Out
+Attempt: 2
+Time Out
+Attempt: 3
+Time Out
+Attempt: 4
+Time Out
+Attempt: 5
+Time Out
+Attempt: 6
+Time Out
+Attempt: 7
+Time Out
+Attempt: 8
+Time Out
+Attempt: 9
+Time Out
+Attempt: 10
+Time Out
+
+
+Sending :  Ping massage number: 17
+Attempt: 0
+Time Out
+Attempt: 1
+Time Out
+Attempt: 2
+Time Out
+Attempt: 3
+Time Out
+Attempt: 4
+Time Out
+Attempt: 5
+Time Out
+Attempt: 6
+Time Out
+Attempt: 7
+Time Out
+Attempt: 8
+Time Out
+Attempt: 9
+Time Out
+Attempt: 10
+Time Out
+
+
+Sending :  Ping massage number: 18
+Attempt: 0
+Time Out
+Attempt: 1
+Time Out
+Attempt: 2
+Time Out
+Attempt: 3
+Time Out
+Attempt: 4
+Time Out
+Attempt: 5
+Time Out
+Attempt: 6
+Time Out
+Attempt: 7
+Time Out
+Attempt: 8
+Time Out
+Attempt: 9
+Time Out
+Attempt: 10
+Time Out
+
+
+Sending :  Ping massage number: 19
+Attempt: 0
+Time Out
+Attempt: 1
+Time Out
+Attempt: 2
+Time Out
+Attempt: 3
+Time Out
+Attempt: 4
+Time Out
+Attempt: 5
+Time Out
+Attempt: 6
+Time Out
+Attempt: 7
+Time Out
+Attempt: 8
+Time Out
+Attempt: 9
+Time Out
+Attempt: 10
+Time Out
+
+
+Average number of attempts: 9.95

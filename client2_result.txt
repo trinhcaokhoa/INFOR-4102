@@ -1,0 +1,173 @@
+Sending :  Ping massage number: 0
+Attempt: 0
+Received:  PING MASSAGE NUMBER: 0
+
+
+Sending :  Ping massage number: 1
+Attempt: 0
+Received:  PING MASSAGE NUMBER: 1
+
+
+Sending :  Ping massage number: 2
+Attempt: 0
+Time Out
+Attempt: 1
+Entering delay 1
+Time Out
+Attempt: 2
+Entering delay 2
+Received:  PING MASSAGE NUMBER: 2
+
+
+Sending :  Ping massage number: 3
+Attempt: 0
+Received:  PING MASSAGE NUMBER: 3
+
+
+Sending :  Ping massage number: 4
+Attempt: 0
+Time Out
+Attempt: 1
+Entering delay 2
+Received:  PING MASSAGE NUMBER: 4
+
+
+Sending :  Ping massage number: 5
+Attempt: 0
+Time Out
+Attempt: 1
+Entering delay 0
+Time Out
+Attempt: 2
+Entering delay 1
+Time Out
+Attempt: 3
+Entering delay 0
+Time Out
+Attempt: 4
+Entering delay 1
+Time Out
+Attempt: 5
+Entering delay 2
+Time Out
+Attempt: 6
+Entering delay 5
+Received:  PING MASSAGE NUMBER: 5
+
+
+Sending :  Ping massage number: 6
+Attempt: 0
+Received:  PING MASSAGE NUMBER: 6
+
+
+Sending :  Ping massage number: 7
+Attempt: 0
+Received:  PING MASSAGE NUMBER: 7
+
+
+Sending :  Ping massage number: 8
+Attempt: 0
+Time Out
+Attempt: 1
+Entering delay 1
+Time Out
+Attempt: 2
+Entering delay 3
+Received:  PING MASSAGE NUMBER: 8
+
+
+Sending :  Ping massage number: 9
+Attempt: 0
+Received:  PING MASSAGE NUMBER: 9
+
+
+Sending :  Ping massage number: 10
+Attempt: 0
+Time Out
+Attempt: 1
+Entering delay 0
+Time Out
+Attempt: 2
+Entering delay 3
+Received:  PING MASSAGE NUMBER: 10
+
+
+Sending :  Ping massage number: 11
+Attempt: 0
+Time Out
+Attempt: 1
+Entering delay 0
+Time Out
+Attempt: 2
+Entering delay 2
+Received:  PING MASSAGE NUMBER: 11
+
+
+Sending :  Ping massage number: 12
+Attempt: 0
+Received:  PING MASSAGE NUMBER: 12
+
+
+Sending :  Ping massage number: 13
+Attempt: 0
+Received:  PING MASSAGE NUMBER: 13
+
+
+Sending :  Ping massage number: 14
+Attempt: 0
+Time Out
+Attempt: 1
+Entering delay 0
+Time Out
+Attempt: 2
+Entering delay 1
+Time Out
+Attempt: 3
+Entering delay 0
+Time Out
+Attempt: 4
+Entering delay 1
+Time Out
+Attempt: 5
+Entering delay 3
+Received:  PING MASSAGE NUMBER: 14
+
+
+Sending :  Ping massage number: 15
+Attempt: 0
+Time Out
+Attempt: 1
+Entering delay 1
+Received:  PING MASSAGE NUMBER: 15
+
+
+Sending :  Ping massage number: 16
+Attempt: 0
+Time Out
+Attempt: 1
+Entering delay 2
+Received:  PING MASSAGE NUMBER: 16
+
+
+Sending :  Ping massage number: 17
+Attempt: 0
+Received:  PING MASSAGE NUMBER: 17
+
+
+Sending :  Ping massage number: 18
+Attempt: 0
+Received:  PING MASSAGE NUMBER: 18
+
+
+Sending :  Ping massage number: 19
+Attempt: 0
+Time Out
+Attempt: 1
+Entering delay 0
+Time Out
+Attempt: 2
+Entering delay 2
+Received:  PING MASSAGE NUMBER: 19
+
+
+Average number of attempts: 1.2
