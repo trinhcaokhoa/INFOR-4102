@@ -30,3 +30,4 @@ Exponential backoff. The delay (measured in seconds) for attempt 0 is 0, for att
 Linear backoff. the delay for attempt 0 is 0, for attempt 1 it is a random number selected from {0, 1}, for attempt 2 it is a random number selected from {0, 1, 2}, for attempt 3 it is a random number selected from {0, 1, 2, 3}, for attempt 4 it is a random number selected from {0, 1, 2, 3, 4} and so on. 
 
 • In each case, if after 10 attempts the client still doesn’t get a response, it simply gives up that message and moves on to the next message. • At the end, the client prints out the average number of attempts per message. For each of the above three strategies, implement a client program. The attached file SampleOutput.txt shows what a sample run of this client should produce. Compare the average number of retries per message required for each strategy, and identify the best strategy
+adsfafdafwd
